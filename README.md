@@ -2,3 +2,5 @@
 Tired of chore confusion in your household? Say goodbye to sticky notes and scattered to-do lists with this revolutionary app designed to streamline and simplify your household chores. Whether you're managing a bustling family or sharing space with roommates, this app is your go-to solution for keeping everyone on track and motivated.
 
 Meet Eva Lomazov! Eva Lomazov is a full-stack developer on the chore-app currently working overseas in the Middle East. With a passion for Robotics, she has been programming since the year 2000. Eva is excited to develop her skills within the scope of this project in preparation for her return to California in the upcoming couple years.
+
+Meet Benita Isaac! Benita Isaac is a former teacher turned full-stack developer. Thought she only started programming recently, she has already finished multiple web applications. Benita is excited to hone her newly developed skills within the scope of this project in preparation for her debut in the tech industry.
